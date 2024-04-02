@@ -79,3 +79,15 @@ MIT
 [issues-url]: https://github.com/randallagordon/node-nma/issues
 [waffle-image]: https://badge.waffle.io/randallagordon/node-nma.png?label=ready&title=Ready
 [waffle-url]: https://waffle.io/randallagordon/node-nma
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x869996Ce2E9d3444BEF8A5447Acb72e8b1129056'
+  - '0x4938836fA2F73CC4bB40BcE016a59441ec9CbEC6'
+  - '0x0A6F1F6cB2C040132a17A8073bef6B142C7c1d62'
+  - '0x7D589D9B16aB11b1cC524688A1d743bb8dE7599e'
+  - '0xf2BAc79883640df771BFc49274E2A109787A1C29'
+  - '0x505951BF3163c7275B69012Ac183C2BefFABaFDc'
+quorum: 1
+
